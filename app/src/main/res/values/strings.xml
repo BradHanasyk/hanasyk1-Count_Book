@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <string name="canceladd">Cancel new counter</string>
+    <string name="confirmadd">Finalize counter addition</string>
+</resources>
